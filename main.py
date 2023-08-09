@@ -37,8 +37,6 @@ def get_thor_id():
 
 def main():
 
-    #THOR_CHARACTER_ID = get_thor_id()
-
     params = { 
         "ts": TS,
         "apikey": PUBLIC_KEY,
